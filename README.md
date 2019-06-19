@@ -1,2 +1,2 @@
 # hello-world
-a new repository
+I've established my github account to put interesting things I discover about machine learning.
